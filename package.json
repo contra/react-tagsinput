@@ -3,8 +3,8 @@
   "version": "1.3.8",
   "description": "Simple react.js component for inputing tags",
   "main": "react-tagsinput.js",
-  "dependencies": {
-    "react": "^0.13.0"
+  "peerDependencies": {
+    "react": "^0.12.0"
   },
   "devDependencies": {
     "jsdom": "^3.0.2"
